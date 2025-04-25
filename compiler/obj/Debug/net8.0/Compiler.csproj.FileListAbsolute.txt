@@ -1,0 +1,15 @@
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/Compiler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/Compiler.AssemblyInfoInputs.cache
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/Compiler.AssemblyInfo.cs
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/Compiler.csproj.CoreCompileInputs.cache
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/Compiler.sourcelink.json
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/bin/Debug/net8.0/Compiler
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/bin/Debug/net8.0/Compiler.deps.json
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/bin/Debug/net8.0/Compiler.runtimeconfig.json
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/bin/Debug/net8.0/Compiler.dll
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/bin/Debug/net8.0/Compiler.pdb
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/Compiler.dll
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/refint/Compiler.dll
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/Compiler.pdb
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/Compiler.genruntimeconfig.cache
+/Users/johnmayou/Projects/markdown-compiler-csharp/Compiler/obj/Debug/net8.0/ref/Compiler.dll

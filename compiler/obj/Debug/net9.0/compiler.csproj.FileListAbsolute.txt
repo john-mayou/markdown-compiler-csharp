@@ -1,0 +1,15 @@
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/compiler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/compiler.AssemblyInfoInputs.cache
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/compiler.AssemblyInfo.cs
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/compiler.csproj.CoreCompileInputs.cache
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/compiler.sourcelink.json
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/bin/Debug/net9.0/compiler
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/bin/Debug/net9.0/compiler.deps.json
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/bin/Debug/net9.0/compiler.runtimeconfig.json
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/bin/Debug/net9.0/compiler.dll
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/bin/Debug/net9.0/compiler.pdb
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/compiler.dll
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/refint/compiler.dll
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/compiler.pdb
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/compiler.genruntimeconfig.cache
+/Users/johnmayou/Projects/markdown-compiler-csharp/compiler/obj/Debug/net9.0/ref/compiler.dll
