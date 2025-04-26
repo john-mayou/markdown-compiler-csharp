@@ -30,8 +30,8 @@ A full example of compiled output can be found in `Compiler.Tests/testdata/examp
 ## Usage
 
 ```csharp
-new Compiler().Compile('# Hello world')
-// => '<h1>Hello world</h1>'
+string html = new Compiler().Compile("# Hello world");
+Console.WriteLine(html); // <h1>Hello world</h1>
 ```
 
 ## Testing
